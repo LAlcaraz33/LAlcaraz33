@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Luis Alcaraz</h1>
 <br><br>
-I'm an Electrical Engineer with several interests. One of them... Development and Software Engineering
+I'm an Electrical Engineer with several interests. Some of them..... Development and Software Engineering
 <br><br>
 Entrepreneur with lots of ideas and the will to make them a reality.
 <br><br>
