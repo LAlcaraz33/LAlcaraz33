@@ -1,14 +1,20 @@
 <h1 align="center">Hi there 👋 I'm Luis Alcaraz</h1>
-
+<br><br>
 I'm an Electrical Engineer with several interests. One of them... Development and Software Engineering
-
+<br><br>
 Entrepreneur with lots of ideas and the will to make them a reality.
-
-Founder of several companies. Such as.....
+<br><br>
+Founder of several companies. Such as....
+<br><br>
 <div align="center" height=30%>
   <img width=100% src="https://github.com/LAlcaraz33/LAlcaraz33/assets/101694971/07cd7ec9-a1e8-4a51-8132-399c08b5a7b4"/>
 </div>
 
+<div>
+  <h2>- Skills </h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"> 
+</div>
+<br><br>
 
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
